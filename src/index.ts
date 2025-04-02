@@ -1,1 +1,2 @@
-console.log('teste')
+import initMatch from "./functions/initMatch";
+initMatch();
